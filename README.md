@@ -28,7 +28,7 @@ Sensors collect field data, which is transmitted to the web platform for monitor
 - Smart irrigation and fertigation support
 
 ## Live Demo
-[Add your deployed website URL here]
+[https://krishi-drishti-smart-irrigation-platform.ai.studio/]
 
 ## Installation
 Refer to the project files and configuration instructions. Add the exact setup commands and required environment variables used by your application.
