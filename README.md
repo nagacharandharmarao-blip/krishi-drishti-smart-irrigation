@@ -36,8 +36,5 @@ Refer to the project files and configuration instructions. Add the exact setup c
 ## Project Status
 Academic project under development.
 
-## Authors
-[Add your team members' names]
-
 ## Disclaimer
 Recommendations should be validated against local agricultural guidance and actual field conditions.
