@@ -1,0 +1,6 @@
+{
+  "name": "KRISHI-DRISHTI - Smart Irrigation & Fertigation Platform",
+  "description": "AI-Driven Smart Irrigation and Fertigation Platform for Sustainable Agriculture in Krishna-Guntur Region, powered by ESP32-C6 telemetry and agronomic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
