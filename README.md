@@ -16,7 +16,6 @@ KRISHI-DRISHTI is a smart agriculture project designed to support efficient irri
 - Web-based dashboard
 - ESP32-C6 and compatible sensors
 - AI-based analysis
-- [Add the programming languages and frameworks used in your actual project]
 
 ## Working
 Sensors collect field data, which is transmitted to the web platform for monitoring and analysis. The system presents relevant information to support irrigation and crop-management decisions.
